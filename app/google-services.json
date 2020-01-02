@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825074376928",
+    "firebase_url": "https://jelp-e80f9.firebaseio.com",
+    "project_id": "jelp-e80f9",
+    "storage_bucket": "jelp-e80f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825074376928:android:128e5659168b3afcfe3085",
+        "android_client_info": {
+          "package_name": "com.brilltech.jelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825074376928-vrr0tgfff40f3stum11ep5u6raohtdar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brilltech.jelp",
+            "certificate_hash": "ed0671588029cad497342ae83cb36922d407b628"
+          }
+        },
+        {
+          "client_id": "825074376928-ch8pl9s8j5n3mgau8t58mo51g1i22up5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICRddQ1BbWgR5qoVfSEga_T4O3wPrc88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825074376928-ch8pl9s8j5n3mgau8t58mo51g1i22up5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
